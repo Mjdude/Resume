@@ -1,0 +1,12 @@
+{
+  "name": "resume-website",
+  "version": "1.0.0",
+  "description": "Personal resume website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["resume", "portfolio"],
+  "author": "Prashanth A",
+  "license": "ISC"
+}
